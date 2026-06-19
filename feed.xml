@@ -3,7 +3,7 @@
     <title>JemliVoice</title>
     <link href="https://JemliVoice.github.io/Voice-Acting-Portfolio/feed.xml" rel="self" />
     <link href="https://JemliVoice.github.io/Voice-Acting-Portfolio" />
-    <updated>2026-06-17T18:12:36-04:00</updated>
+    <updated>2026-06-19T19:26:34-04:00</updated>
     <author>
         <name>Jemli</name>
     </author>
@@ -39,7 +39,7 @@
         </content>
     </entry>
     <entry>
-        <title>What does Jemli do?</title>
+        <title>Services</title>
         <author>
             <name>Jemli</name>
         </author>
@@ -61,27 +61,6 @@
 <li>Audio dramas/books</li>
 <li>General voice overs</li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Listen to samples</title>
-        <author>
-            <name>Jemli</name>
-        </author>
-        <link href="https://JemliVoice.github.io/Voice-Acting-Portfolio/listen-to-samples.html"/>
-        <id>https://JemliVoice.github.io/Voice-Acting-Portfolio/listen-to-samples.html</id>
-
-        <updated>2026-04-15T13:00:46-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Find out what kind of range Elizabeth has to see if she's the voice you need for your project. Click here to have a listen. All samples are original scripts, created by Elizabeth, for the purpose of demonstrating her capabilities. 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Find out what kind of range Elizabeth has to see if she's the voice you need for your project. Click <a href="https://JemliVoice.github.io/Voice-Acting-Portfolio/samples.html">here</a> to have a listen.</p>
-<p>All samples are original scripts, created by Elizabeth, for the purpose of demonstrating her capabilities. </p>
             ]]>
         </content>
     </entry>

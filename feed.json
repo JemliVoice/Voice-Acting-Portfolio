@@ -27,7 +27,7 @@
         {
             "id": "https://JemliVoice.github.io/Voice-Acting-Portfolio/what-does-jemli-do.html",
             "url": "https://JemliVoice.github.io/Voice-Acting-Portfolio/what-does-jemli-do.html",
-            "title": "What does Jemli do?",
+            "title": "Services",
             "summary": "What type of content does Elizabeth voice act for? Indie video games Animation Audio dramas/books General voice overs",
             "content_html": "<h4>What type of content does Elizabeth voice act for? </h4>\n<ul style=\"list-style-type: circle;\">\n<li>Indie video games</li>\n<li>Animation</li>\n<li>Audio dramas/books</li>\n<li>General voice overs</li>\n</ul>",
             "author": {
@@ -36,21 +36,7 @@
             "tags": [
             ],
             "date_published": "2026-04-15T13:04:47-04:00",
-            "date_modified": "2026-05-16T20:39:09-04:00"
-        },
-        {
-            "id": "https://JemliVoice.github.io/Voice-Acting-Portfolio/listen-to-samples.html",
-            "url": "https://JemliVoice.github.io/Voice-Acting-Portfolio/listen-to-samples.html",
-            "title": "Listen to samples",
-            "summary": "Find out what kind of range Elizabeth has to see if she's the voice you need for your project. Click here to have a listen. All samples are original scripts, created by Elizabeth, for the purpose of demonstrating her capabilities. ",
-            "content_html": "<p>Find out what kind of range Elizabeth has to see if she's the voice you need for your project. Click <a href=\"https://JemliVoice.github.io/Voice-Acting-Portfolio/samples.html\">here</a> to have a listen.</p>\n<p>All samples are original scripts, created by Elizabeth, for the purpose of demonstrating her capabilities. </p>",
-            "author": {
-                "name": "Jemli"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-04-15T13:00:46-04:00",
-            "date_modified": "2026-05-16T20:39:21-04:00"
+            "date_modified": "2026-06-19T19:26:34-04:00"
         }
     ]
 }
