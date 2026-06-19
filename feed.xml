@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>JemliVoice</title>
+    <link href="https://JemliVoice.github.io/Voice-Acting-Portfolio/feed.xml" rel="self" />
+    <link href="https://JemliVoice.github.io/Voice-Acting-Portfolio" />
+    <updated>2026-06-17T18:12:36-04:00</updated>
+    <author>
+        <name>Jemli</name>
+    </author>
+    <id>https://JemliVoice.github.io/Voice-Acting-Portfolio</id>
+
+    <entry>
+        <title>COMING SOON: NOVEL AND AUDIO, WRITTEN AND NARRATED BY ELIZABETH</title>
+        <author>
+            <name>Jemli</name>
+        </author>
+        <link href="https://JemliVoice.github.io/Voice-Acting-Portfolio/coming-soon-novel-and-audio-written-and-narrated-by-elizabeth.html"/>
+        <id>https://JemliVoice.github.io/Voice-Acting-Portfolio/coming-soon-novel-and-audio-written-and-narrated-by-elizabeth.html</id>
+
+        <updated>2026-05-16T19:25:14-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Keep an eye out for my upcoming novel, Say Cheese Inc. I will have the audio narration here, on my website! Something strange is inside Cheese Inc., the popular and ever-growing social media company's headquarters... or is it all just in Trinity's head? Click here&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Keep an eye out for my upcoming novel, Say Cheese Inc. I will have the audio narration here, on my website!</p>
+<blockquote>
+<p>Something strange is inside Cheese Inc., the popular and ever-growing social media company's headquarters...</p>
+<p>or is it all just in Trinity's head?</p>
+</blockquote>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://JemliVoice.github.io/Voice-Acting-Portfolio/media/posts/7/Say-Cheese-Inc-cover.jpg" alt="" width="512" height="800" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://JemliVoice.github.io/Voice-Acting-Portfolio/media/posts/7/responsive/Say-Cheese-Inc-cover-xs.jpg 640w ,https://JemliVoice.github.io/Voice-Acting-Portfolio/media/posts/7/responsive/Say-Cheese-Inc-cover-sm.jpg 768w ,https://JemliVoice.github.io/Voice-Acting-Portfolio/media/posts/7/responsive/Say-Cheese-Inc-cover-md.jpg 1024w ,https://JemliVoice.github.io/Voice-Acting-Portfolio/media/posts/7/responsive/Say-Cheese-Inc-cover-lg.jpg 1366w ,https://JemliVoice.github.io/Voice-Acting-Portfolio/media/posts/7/responsive/Say-Cheese-Inc-cover-xl.jpg 1600w ,https://JemliVoice.github.io/Voice-Acting-Portfolio/media/posts/7/responsive/Say-Cheese-Inc-cover-2xl.jpg 1920w"></figure>
+<h3>Have you ever seen something out of the corner of your eye, something you're sure you saw but knew that it couldn't have been there? This is what it is like every day for Trinity, a troubled young secretary who has landed her first job at the largest and most advanced social media company in the world as of 2039: Cheese Inc. Everything about the corporation's headquarters is impressive; like the the Feed-integrated personal elevators--but it's not until Trinity finds one man's name on a document that her entire understanding of who she really works for changes. Trinity must find a way to rise above her limitations and see past her condition in order to find the truth in this technologically-impressive world.</h3>
+<p> </p>
+<p>Click <a href="https://JemliVoice.github.io/Voice-Acting-Portfolio/samples.html">here</a> to listen to a sample of it! It will be the one titled "audiobook".</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>What does Jemli do?</title>
+        <author>
+            <name>Jemli</name>
+        </author>
+        <link href="https://JemliVoice.github.io/Voice-Acting-Portfolio/what-does-jemli-do.html"/>
+        <id>https://JemliVoice.github.io/Voice-Acting-Portfolio/what-does-jemli-do.html</id>
+
+        <updated>2026-04-15T13:04:47-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    What type of content does Elizabeth voice act for? Indie video games Animation Audio dramas/books General voice overs
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h4>What type of content does Elizabeth voice act for? </h4>
+<ul style="list-style-type: circle;">
+<li>Indie video games</li>
+<li>Animation</li>
+<li>Audio dramas/books</li>
+<li>General voice overs</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Listen to samples</title>
+        <author>
+            <name>Jemli</name>
+        </author>
+        <link href="https://JemliVoice.github.io/Voice-Acting-Portfolio/listen-to-samples.html"/>
+        <id>https://JemliVoice.github.io/Voice-Acting-Portfolio/listen-to-samples.html</id>
+
+        <updated>2026-04-15T13:00:46-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Find out what kind of range Elizabeth has to see if she's the voice you need for your project. Click here to have a listen. All samples are original scripts, created by Elizabeth, for the purpose of demonstrating her capabilities. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Find out what kind of range Elizabeth has to see if she's the voice you need for your project. Click <a href="https://JemliVoice.github.io/Voice-Acting-Portfolio/samples.html">here</a> to have a listen.</p>
+<p>All samples are original scripts, created by Elizabeth, for the purpose of demonstrating her capabilities. </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
